@@ -8,7 +8,7 @@ import Utils.FileTransform;
 public class Day01b {
 
 	public static void main(String[] args) {
-String fileName = "inputs/day01.txt";
+		String fileName = "inputs/day01.txt";
 		
 		ArrayList<String> list = new ArrayList<String>();
 		list = FileTransform.fileToStringList(fileName);
