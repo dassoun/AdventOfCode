@@ -34,7 +34,7 @@ public class Day01a {
 //			System.out.println(BigInteger.valueOf(tmp2));
 			
 			sum = sum.add(BigInteger.valueOf(tmp2));
-//			System.out.println(sum);
+			System.out.println(sum);
 		}
 		
 		System.out.println(sum);
